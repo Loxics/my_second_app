@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3VwFDc55HdE=",
+  "dgSpecHash": "Skwoa64+JdE=",
   "success": true,
-  "projectFilePath": "/Users/sskiizens/Documents/DevSecOps_Course/tp2/tp2-infra/tp2-infra.csproj",
+  "projectFilePath": "/home/kali/devsecops/tp2-infra/app_infra/tp2-infra.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sskiizens/Documents/DevSecOps_Course/tp2/tp2-infra/tp2-infra.csproj": {}
+    "/home/kali/devsecops/tp2-infra/app_infra/tp2-infra.csproj": {}
   },
   "projects": {
-    "/Users/sskiizens/Documents/DevSecOps_Course/tp2/tp2-infra/tp2-infra.csproj": {
+    "/home/kali/devsecops/tp2-infra/app_infra/tp2-infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sskiizens/Documents/DevSecOps_Course/tp2/tp2-infra/tp2-infra.csproj",
+        "projectUniqueName": "/home/kali/devsecops/tp2-infra/app_infra/tp2-infra.csproj",
         "projectName": "tp2-infra",
-        "projectPath": "/Users/sskiizens/Documents/DevSecOps_Course/tp2/tp2-infra/tp2-infra.csproj",
-        "packagesPath": "/Users/sskiizens/.nuget/packages/",
-        "outputPath": "/Users/sskiizens/Documents/DevSecOps_Course/tp2/tp2-infra/obj/",
+        "projectPath": "/home/kali/devsecops/tp2-infra/app_infra/tp2-infra.csproj",
+        "packagesPath": "/home/kali/.nuget/packages/",
+        "outputPath": "/home/kali/devsecops/tp2-infra/app_infra/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/sskiizens/.nuget/NuGet/NuGet.Config"
+          "/home/kali/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
